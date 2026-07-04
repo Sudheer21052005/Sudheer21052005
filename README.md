@@ -75,10 +75,9 @@ AI-based job recommendation system
 
 <p align="center">
 
-<img height="180em" src="https://ghstats.dev/api/card?username=Sudheer21052005&theme=tokyonight" />
+<img src="https://ghstats.dev/api/card?username=Sudheer21052005&theme=tokyonight" />
 
-<img height="180em"
-src="https://streak-stats.vercel.app?user=Sudheer21052005&theme=tokyonight"/>
+<img src="https://streak-stats.vercel.app?user=Sudheer21052005&theme=tokyonight"/>
 
 </p>
 
