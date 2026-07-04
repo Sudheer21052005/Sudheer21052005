@@ -75,6 +75,7 @@ AI-based job recommendation system
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudheer21052005&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=Sudheer21052005&theme=tokyonight" />
 </p>
 
