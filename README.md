@@ -75,12 +75,17 @@ AI-based job recommendation system
 
 <p align="center">
 
-<img src="https://ghstats.dev/api/card?username=Sudheer21052005&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudheer21052005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img src="https://streak-stats.vercel.app?user=Sudheer21052005&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheer21052005&layout=compact&theme=tokyonight" />
 
 </p>
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sudheer21052005&theme=tokyonight" />
+
+</p>
 ---
 
 ## ✍️ Quote
